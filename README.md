@@ -9,5 +9,5 @@ MySQL : select user()<br>
 MsSQL : select user()
 <br>
 <br>
-Oracle,Mysql : SUBSTR
+Oracle,Mysql : SUBSTR<br>
 MsSQL : SUBSTRING
