@@ -2,8 +2,8 @@
 light version <br>
 input url, cookie, attack_payload <br>
 
-<h1>[Ex]<br>
+[Ex]<br>
 Attack_payload <br>
-<p>Oracle : select user from dual</p> <br>
-<p>MySQL : select username()</p><br>
-<p>MsSQL : select user()</p>
+Oracle : select user from dual <br>
+MySQL : select username()<br>
+MsSQL : select user()
