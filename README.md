@@ -7,3 +7,7 @@ Attack_payload <br>
 Oracle : select user from dual <br>
 MySQL : select user()<br>
 MsSQL : select user()
+<br>
+<br>
+Oracle,Mysql : SUBSTR
+MsSQL : SUBSTRING
