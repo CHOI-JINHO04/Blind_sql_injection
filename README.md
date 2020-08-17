@@ -5,5 +5,5 @@ input url, cookie, attack_payload <br>
 [Ex]<br>
 Attack_payload <br>
 Oracle : select user from dual <br>
-MySQL : select username()<br>
+MySQL : select user()<br>
 MsSQL : select user()
